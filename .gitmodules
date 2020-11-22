@@ -1,0 +1,3 @@
+[submodule "Telegram-bot"]
+	path = Telegram-bot
+	url = https://github.com/undergroundenemy616/MicroprocessorCourseWork
