@@ -24,4 +24,4 @@ My-HomeCam-Security - система контроля входа в умном �
 
 **Но прежде всего нужно собрать всю аппаратную часть!**
 
-### Более подробно о системе чистайте в [Report.pdf](https://github.com/Yang-Pi/My-HomeCam-Security/blob/main/report.pdf)
+### Более подробно о системе чистайте в [Report.pdf](https://github.com/Yang-Pi/My-HomeCam-Security/blob/main/report/report.pdf)
