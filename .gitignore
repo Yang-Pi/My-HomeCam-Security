@@ -1,2 +1,9 @@
 /dataset/*
 /trainer/*
+/report/*.aux
+/report/*.fbd*
+/report/*.fls
+/report/*.log
+/report/*.out
+/report/*.synctex*
+/report/*.toc
