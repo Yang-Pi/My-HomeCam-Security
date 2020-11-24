@@ -7,3 +7,4 @@
 /report/*.out
 /report/*.synctex*
 /report/*.toc
+/report/*.tex
