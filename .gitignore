@@ -8,3 +8,7 @@
 /report/*.synctex*
 /report/*.toc
 /report/*.tex
+<<<<<<< HEAD
+=======
+/report/images/*
+>>>>>>> e355344cbf491c8a31ce44696b9c03103f1b45aa
